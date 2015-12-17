@@ -1,5 +1,6 @@
 #include <stdio.h>
-void
+int 
 main(){
   printf("this is first version\n");
+  return 0;
 }
